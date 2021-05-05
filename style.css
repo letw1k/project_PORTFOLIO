@@ -1,4 +1,4 @@
-.social:hover{
- transform:rotateX(360);
- transition:5s linear;
+.python:hover{
+ transform:rotateX(1000);
+ transition:3s linear;
 }
