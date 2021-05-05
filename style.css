@@ -1,4 +1,4 @@
 .python:hover{
- transform:rotate(2001);
+ transform:rotateY(2001deg);
  transition:3s linear;
 }
