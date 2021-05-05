@@ -1,1 +1,4 @@
-
+.social:hover{
+ transform:rotateX(1000);
+ transition:2s linear;
+}
